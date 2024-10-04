@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "es2016",                                  
+    "module": "commonjs",                                
+    "esModuleInterop": true,                             
+    "forceConsistentCasingInFileNames": true,            
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    /* Type Checking */
+    "strict": true,                                      
+    "skipLibCheck": true                                 
+  }
+}
